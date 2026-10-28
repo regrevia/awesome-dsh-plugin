@@ -1,0 +1,6 @@
+url: https://github.com/regrevia/dsh-pause-resume
+name: regrevia/dsh-pause-resume
+category: session
+description:
+  en: 'Pauses running turns, goals and jobs into a plan on disk, then restores that same work after a restart or crash; the header button is the status, and progressive resume stays off by default.'
+  zh: '把正在运行的回合、目标与岗位暂停成磁盘上的计划，重启或崩溃后按计划恢复同一批工作；页头按钮本身就是状态，渐进恢复默认关闭。'
